@@ -1,0 +1,44 @@
+[
+  {
+    "domain": "wikipedia.org",
+    "inputValue": "wikipedia.org",
+    "tld": "org",
+    "status": "registered",
+    "registered": true,
+    "registrar": "MarkMonitor Inc.",
+    "registrarIanaId": "292",
+    "registrarUrl": "https://www.markmonitor.com/about-us/",
+    "registrarAbuseEmail": "contact@example.com",
+    "registrarAbusePhone": "+1 555 0100",
+    "createdAt": "2001-01-13T00:12:14Z",
+    "updatedAt": "2026-08-12T08:47:19Z",
+    "expiresAt": "2027-01-13T00:00:00Z",
+    "lastTransferAt": "2012-03-09T16:33:50Z",
+    "daysUntilExpiry": 85,
+    "domainAgeYears": 25.8,
+    "expiringSoon": false,
+    "eppStatuses": [
+      "clientDeleteProhibited",
+      "clientTransferProhibited",
+      "clientUpdateProhibited"
+    ],
+    "transferLock": true,
+    "nameservers": [
+      "ns0.wikimedia.org",
+      "ns1.wikimedia.org",
+      "ns2.wikimedia.org"
+    ],
+    "dnssec": false,
+    "registrantOrganization": null,
+    "registrantCountry": "US",
+    "registrantState": "CA",
+    "privacyProtected": true,
+    "dnsA": null,
+    "dnsMx": null,
+    "dnsNs": null,
+    "rdapRegistryUrl": "https://rdap.publicinterestregistry.org/rdap/domain/wikipedia.org",
+    "rdapRegistrarUrl": "https://rdap.markmonitor.com/rdap/domain/wikipedia.org",
+    "rdapSource": "registry+registrar",
+    "checkedAt": "2026-10-19T12:27:20Z"
+  }
+]
